@@ -18,7 +18,7 @@ const Navbar = ({setShowInput}) => {
             </div>
           </li>
           <li className='text-white'>
-            DATE MONTH
+            DATE MONTHSS
           </li>
           <li className='text-white'>⏱︎ </li>
         </ul>
